@@ -1,5 +1,5 @@
 ## Case Study #1 - Danny's Diner
-This notebook is about case study from [#8WeekSQLChallenge](https://8weeksqlchallenge.com/) by [Danny Ma](https://www.linkedin.com/in/datawithdanny/).
+This notebook is about first case study from [#8WeekSQLChallenge](https://8weeksqlchallenge.com/) by [Danny Ma](https://www.linkedin.com/in/datawithdanny/).
 
 You can use the embedded DB Fiddle in the case study page. I used text editor and DB Browser to solve the questions.
 
